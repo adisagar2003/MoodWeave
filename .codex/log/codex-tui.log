@@ -1,0 +1,32 @@
+[2m2025-09-22T19:22:31.719805Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:22:31.837371Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:22:33.874704Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:22:34.005883Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:22:38.459628Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:22:38.561571Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:23:38.434911Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:23:38.569757Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:23:40.522271Z[0m [32m INFO[0m Shutting down Codex instance
+[2m2025-09-22T19:23:40.522639Z[0m [32m INFO[0m interrupt received: abort current task, if any
+[2m2025-09-22T19:23:44.456950Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:23:44.541155Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:23:47.922981Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:23:48.021623Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:23:49.608477Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:23:49.740420Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:23:52.193005Z[0m [32m INFO[0m Shutting down Codex instance
+[2m2025-09-22T19:23:52.193119Z[0m [32m INFO[0m interrupt received: abort current task, if any
+[2m2025-09-22T19:23:55.564751Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:23:55.755248Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:24:06.943416Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:24:07.051136Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:24:08.247540Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:24:08.361367Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:24:10.064426Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:24:10.172839Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:24:12.790039Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:24:12.888117Z[0m [32m INFO[0m Esc pressed
+[2m2025-09-22T19:24:21.329609Z[0m [33m WARN[0m stream disconnected - retrying turn (1/5 in 186ms)...
+[2m2025-09-22T19:24:23.657455Z[0m [32m INFO[0m interrupt received: abort current task, if any
+[2m2025-09-22T19:24:24.290737Z[0m [32m INFO[0m Shutting down Codex instance
+[2m2025-09-22T19:24:24.290802Z[0m [32m INFO[0m interrupt received: abort current task, if any
